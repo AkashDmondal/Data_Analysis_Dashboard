@@ -1,0 +1,4 @@
+,Crossing,Finishing,HeadingAccuracy,ShortPassing,Volleys,Dribbling,Curve,FKAccuracy,LongPassing,BallControl,Acceleration,SprintSpeed,Agility,Reactions,Balance,ShotPower,Jumping,Stamina,Strength,LongShots,Aggression,Interceptions,Positioning,Vision,Penalties,Composure,Marking,StandingTackle,SlidingTackle,GKDiving,GKHandling,GKKicking,GKPositioning,GKReflexes,Role,Position,AW,CAM,CB,CDM,CF,CM,GK,ST,WB,WM
+0,50,45,70,65,30,45,50,68,72,65,35,55,45,55,50,80,65,70,75,65,35,45,55,65,50,50,70,50,50,0,0,0,0,0,DEF,CB,0.05,0.09,0.15,0.25,0.01,0.3,0.0,0.03,0.07,0.05
+1,84,95,70,90,86,97,93,94,87,96,91,86,91,95,95,85,68,72,59,94,48,22,94,94,75,96,33,28,26,6,11,15,14,8,ATT,CF,0.31,0.15,0.0,0.0,0.11,0.02,0.0,0.25,0.0,0.16
+2,93,82,55,92,82,86,85,83,91,91,78,76,79,91,77,91,63,90,75,91,76,61,87,94,79,88,68,58,51,15,13,5,10,13,MID,"{""CAM"": 0.18, ""CDM"": 0.08, ""CM"": 0.66, ""WM"": 0.08}",0.11,0.17,0.0,0.06,0.06,0.31,0.0,0.06,0.06,0.17
